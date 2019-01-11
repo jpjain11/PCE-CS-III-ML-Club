@@ -100,4 +100,8 @@ x = np.diag([1,2,3,4])
 
 x = np.trace(x)
 #print(x)
+
+#test for array element
+np.all([-1, 4, 5])
+#true
     

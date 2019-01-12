@@ -100,4 +100,9 @@ x = np.diag([1,2,3,4])
 
 x = np.trace(x)
 #print(x)
+
+#to check the nature of array element using axis
+np.all[-1,4,5]
+#true
+
     
